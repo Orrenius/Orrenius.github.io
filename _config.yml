@@ -83,10 +83,10 @@ author:
   name             : "Johan Orrenius"
   avatar           : "JohanOrrenius004_websize.jpg"
   bio              : "Applied micro economist"
-  location         : "SSE, Sweden"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Stockholm, Sweden"
+  employer         : "Stockholm School of Economics"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  "johan.orrenius@hhs.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
