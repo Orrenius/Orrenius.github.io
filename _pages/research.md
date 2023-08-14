@@ -10,7 +10,7 @@ Work in Progress
 ======
 Value of attention:
 
-  * I document a large heterogeneity in the use of time as payment in mobile
+I document a large heterogeneity in the use of time as payment in mobile
 games. By using a detailed event-level dataset I can estimate user elasticities
 for a 30-second Reward Video. There are large individual and time heterogeneity. Looking at the population as a whole, the elasticity of a Reward
 Video is 2.2 with regard to the in-game currency. The main explanatory
