@@ -11,7 +11,13 @@ author_profile: true
  
 **What is the value of attention? Supply and demand estimation of attention in a mobile phone setting**:
  
-I investigate the digital market for attention, documenting large heterogeneity in the use of attention as payment in mobile games. By using a detailed event-level dataset, I estimate user elasticities for a 30-second Rewarded Video, which is my unit of attention. In the aggregate, the elasticity of a  Rewarded Video is 2.2 with regard to the in-game currency of the mobile game. When accounting for individual heterogeneity the elasticity reduces to 0.8. I further find that the elasticity of a Rewarded Video is the largest during evenings. By relating the use of  Rewarded Videos to the price paid by the advertiser to show the ad to the user, I find that the attention of individuals who watch more  Rewarded Videos is valued less by the advertisers. Finally, I model the willingness to pay to avoid a  Rewarded Video to 9.71 in-game coins, corresponding to about 0.1 Euro. This is of the same magnitude as the value of time, as previously documented for the value of travel time. 
+I study the digital market for attention in a freemium mobile game where users choose between paying with money or by watching 30-second video ads.
+Using unique event-level data, I estimate consumer’s supply elasticity of attention. 
+In the aggregate, a one percent higher price increases the share of payments by users watching videos by 2.2 percent. 
+A substantial part is due to individual heterogeneity in tastes. 
+Accounting individual heterogeneity reduces the elasticity to 0.5. 
+The individual elasticities vary throughout the day, peaking in the evening. 
+By analyzing the prices advertisers pay for each individual ad shown to consumers, I find advertisers pay more for users less likely to watch ads, with a stronger effect among Android users than iOS users. Finally, I estimate the willingness to accept a 30-second ad at 0.15 euros. This is of similar magnitude as previous estimates of consumer’s valuation of time. 
 
 **Market Definitions in the Real-estate Agents Market,  A Data-driven Approach Using Statistical Learning (with Adam Lindhe)**: 
 
