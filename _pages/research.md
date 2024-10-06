@@ -6,11 +6,14 @@ author_profile: true
 ---
 
 
-**Work in Progress**
 
- 
+
+
+
 **What is the value of attention? Supply and demand estimation of attention in a mobile phone setting**:
- 
+
+(Job Market Paper) 
+
 I study the digital market for attention in a freemium mobile game where users choose between paying with money or by watching 30-second video ads.
 Using unique event-level data, I estimate consumer’s supply elasticity of attention. 
 In the aggregate, a one percent higher price increases the share of payments by users watching videos by 2.2 percent. 
@@ -18,6 +21,8 @@ A substantial part is due to individual heterogeneity in tastes.
 Accounting individual heterogeneity reduces the elasticity to 0.5. 
 The individual elasticities vary throughout the day, peaking in the evening. 
 By analyzing the prices advertisers pay for each individual ad shown to consumers, I find advertisers pay more for users less likely to watch ads, with a stronger effect among Android users than iOS users. Finally, I estimate the willingness to accept a 30-second ad at 0.15 euros. This is of similar magnitude as previous estimates of consumer’s valuation of time. 
+
+**Work in Progress**
 
 **Market Definitions in the Real-estate Agents Market,  A Data-driven Approach Using Statistical Learning (with Adam Lindhe)**: 
 
