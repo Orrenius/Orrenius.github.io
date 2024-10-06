@@ -12,7 +12,8 @@ author_profile: true
 
 **What is the value of attention? Supply and demand estimation of attention in a mobile phone setting**:
 
-(Job Market Paper) 
+(Job Market Paper) [JMPdraft_orrenius_attention.pdf](https://github.com/user-attachments/files/17270140/JMPdraft_orrenius_attention.pdf)
+
 
 I study the digital market for attention in a freemium mobile game where users choose between paying with money or by watching 30-second video ads.
 Using unique event-level data, I estimate consumer’s supply elasticity of attention. 
