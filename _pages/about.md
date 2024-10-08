@@ -10,7 +10,8 @@ I am on the 2024/2025 academic job market.
 
 Previous to pursuing a PhD in Economics at [Stockholm School of Economics](https://www.hhs.se) I worked at [Swedish House of Finance](https://www.hhs.se/en/houseoffinance/) as a pre-doc. 
 I hold a  Master of Science degree in Applied and Computational Mathematics from the Royal Institute of Technology in Stockholm as well as a Master of Science in Engineering degree in Engineering Physics (Civilingenjör Teknisk fysik). 
-(http://orrenius.github.io/files/lecture_notes_math_2023.pdf
-Find my [CV]([https://github.com/user-attachments/files/17283068](http://orrenius.github.io/files)/cv_orrenius_JM2425.pdf) here.  
+
+
+Find my [CV](http://orrenius.github.io/files/cv_orrenius_JM2425.pdf) here.  
 
 
