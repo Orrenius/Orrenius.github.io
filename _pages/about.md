@@ -8,9 +8,9 @@ I am an applied microeconomist at the Stockholm School of Economics who works in
 
 I am on the 2024/2025 academic job market. 
 
-Previous to pursuing a PhD in Economics at [Stockholm School of Economics](https://www.hhs.se) I worked a [Swedish House of Finance](https://www.hhs.se/en/houseoffinance/) as a pre-doc. 
-I hold a  Master of Science degree in Applied and Computational Mathematics from the Royal Institute of Technology in Stockholm as well as a Master of Science in Engernering degree in Engineering Physics (Civilingenjör Teknisk fysik). 
-
-Find my [CV](https://github.com/user-attachments/files/17283068/cv_orrenius_oct_2024.pdf) here.  
+Previous to pursuing a PhD in Economics at [Stockholm School of Economics](https://www.hhs.se) I worked at [Swedish House of Finance](https://www.hhs.se/en/houseoffinance/) as a pre-doc. 
+I hold a  Master of Science degree in Applied and Computational Mathematics from the Royal Institute of Technology in Stockholm as well as a Master of Science in Engineering degree in Engineering Physics (Civilingenjör Teknisk fysik). 
+(http://orrenius.github.io/files/lecture_notes_math_2023.pdf
+Find my [CV]([https://github.com/user-attachments/files/17283068](http://orrenius.github.io/files)/cv_orrenius_JM2425.pdf) here.  
 
 
