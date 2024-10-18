@@ -4,7 +4,7 @@ title: "Personal website of Johan Orrenius"
 excerpt: "About me"
 author_profile: true
 ---
-I am an applied microeconomist at the Stockholm School of Economics who works in the fields of Industrial Organization, Economics of Education, and Health Economics. 
+I am an applied microeconomist at the Stockholm School of Economics who works in the fields of Digital Economics, Economics of Education, and Health Economics. 
 
 I am on the 2024/2025 academic job market. 
 
