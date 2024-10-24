@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-</u><strong><h>At Stockholm School of Economics:</h></strong></u>
+<strong><h>At Stockholm School of Economics:</h></strong>
 
 **The Psychology and Economics of Consumer Finance** Spring 2019  
 Teaching Assistant for Marieke Bos  
