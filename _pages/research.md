@@ -26,6 +26,7 @@ By analyzing the prices advertisers pay for each individual ad shown to consumer
 
 
 **Market Definitions in the Real-estate Agents Market,  A Data-driven Approach Using Statistical Learning.** (with Adam Lindhe): 
+
  [(Draft)](../files/Market_definition_oct24_orrenius.pdf)
  
    This paper introduces a novel method to define geographic markets using machine learning.  
