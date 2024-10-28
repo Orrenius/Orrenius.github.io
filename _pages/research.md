@@ -39,3 +39,13 @@ By analyzing the prices advertisers pay for each individual ad shown to consumer
 
 **Work in Progress**
 
+<u>School openings and teacher mental health.</u> (with Helena Svaleryd and Jonas Vlachos)
+
+
+<u>Loneliness, Alzheimer and Financial Distress.</u> (with Marieke Bos and Andrew Herzberg )
+
+
+<u>The impact of remedial education on educational achievements.</u> (with Shubhaa Bhattacharyya)
+
+
+
