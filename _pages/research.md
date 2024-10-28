@@ -10,7 +10,7 @@ author_profile: true
 
 
 
-**What is the value of attention? Supply and demand estimation of attention in a mobile phone setting**:
+**What is the value of attention? Supply and demand estimation of attention in a mobile phone setting.**:
 
  [(Job Market Paper)](../files/JMPdraft_orrenius_attention.pdf)
 
@@ -25,7 +25,7 @@ By analyzing the prices advertisers pay for each individual ad shown to consumer
 
 
 
-**Market Definitions in the Real-estate Agents Market,  A Data-driven Approach Using Statistical Learning** (with Adam Lindhe): 
+**Market Definitions in the Real-estate Agents Market,  A Data-driven Approach Using Statistical Learning.** (with Adam Lindhe): 
  [(Draft)](../files/Market_definition_oct24_orrenius.pdf)
  
    This paper introduces a novel method to define geographic markets using machine learning.  
