@@ -23,8 +23,18 @@ Accounting individual heterogeneity reduces the elasticity to 0.5.
 The individual elasticities vary throughout the day, peaking in the evening. 
 By analyzing the prices advertisers pay for each individual ad shown to consumers, I find advertisers pay more for users less likely to watch ads, with a stronger effect among Android users than iOS users. Finally, I estimate the willingness to accept a 30-second ad at 0.15 euros. This is of similar magnitude as previous estimates of consumer’s valuation of time. 
 
-**Work in Progress**
+
 
 **Market Definitions in the Real-estate Agents Market,  A Data-driven Approach Using Statistical Learning (with Adam Lindhe)**: 
+ [(Draft)](../files/Market definition nov24 orrenius.pdf)
+    This paper introduces a novel method to define geographic markets using machine learning.  
+    Using an unsupervised learning approach we cluster sales based on customers' location such that each cluster represents a market. 
+    The novelty of our method is that we leverage the identity of the seller for each observation to capture market structures that are not distance-based.
+    We integrate the assumption that sellers focus on a few geographic markets into our Bayesian framework and empirically implement the method using a Gibbs sampler. 
+    Estimating the geographic markets for real estate agents in Stockholm, our algorithm does significantly better in correctly classifying sales than the baseline K-means algorithm, achieving a Dice score of $0.78$ compared to $0.67$. 
+    We find that the number of markets each agent works in is distributed more similarly in our classification than in the baseline comparison. 
+    Our method underestimates the market concentration, as measured by the Herfindahl-Hirschman Index (HHI), less than the baseline K-means. 
+    Finally, we investigate the correct number of clusters and find that, in our example, it corresponds to the established knowledge of the market's geographic structure.
 
-We define geographic markets using a machine learning clustering algorithm. The algorithm is an unsupervised learning algorithm that uses data on customers' location and seller identity to define markets. The novelty of our method is that we leverage the seller identity of each observation to improve on pure distance-based measures of markets. We impose the intuition that a seller will focus on a few geographic markets and incorporate it into a Bayesian method. We empirically implement the method using a Gibbs sampler and estimate the geographic markets for real estate agents in Sweden. We find that our algorithm does significantly better than the standard geographic clustering algorithm, K-means. We get a Dice score of 0.78 compared to 0.67. We also find a distribution of the number of markets each agent works in closer to that of the validation set. The baseline K-means market definition indicates a lower market concentration than our market definition, where ours is closer to that of the validation set. Finally, we investigate the correct number of clusters and find that it in our example corresponds to the general knowledge of how the market is geographically structured.   
+**Work in Progress**
+
