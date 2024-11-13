@@ -29,14 +29,15 @@ By analyzing the prices advertisers pay for each individual ad shown to consumer
 
  [(Draft)](../files/Market_definition_oct24_orrenius.pdf)
  
-   This paper introduces a novel method to define geographic markets using machine learning.  
-   Using an unsupervised learning approach we cluster sales based on customers' location such that each cluster represents a market. 
-   The novelty of our method is that we leverage the identity of the seller for each observation to capture market structures that are not distance-based.
-   We integrate the assumption that sellers focus on a few geographic markets into our Bayesian framework and empirically implement the method using a Gibbs sampler. 
-   Estimating the geographic markets for real estate agents in Stockholm, our algorithm does significantly better in correctly classifying sales than the baseline K-means algorithm, achieving a Dice score of $0.78$ compared to $0.67$. 
-   We find that the number of markets each agent works in is distributed more similarly in our classification than in the baseline comparison. 
-   Our method underestimates the market concentration, as measured by the Herfindahl-Hirschman Index (HHI), less than the baseline K-means. 
-   Finally, we investigate the correct number of clusters and find that, in our example, it corresponds to the established knowledge of the market's geographic structure.
+This paper introduces a novel method to define geographic markets using machine learning.  
+    Using an unsupervised learning approach, we cluster sales based on customers' locations, with each cluster representing a distinct market. 
+    The novelty of our method is that we leverage the identity of the seller for each observation to capture market structures that cannot be captured by today's methods.
+    We integrate the assumption that sellers focus on a few geographic markets into our Bayesian framework and empirically implement the method using a Gibbs sampler. 
+    Estimating the geographic markets for real estate agents in Stockholm, our algorithm does significantly better in correctly classifying sales than the baseline K-means algorithm, achieving a Dice score of $0.78$ compared to $0.67$. 
+    We find that the number of markets each agent works in is distributed more similarly to the industry knowledge in our classification than in the baseline comparison. 
+    Our method classifies the markets such that market concentration, as measured by the Herfindahl-Hirschman Index (HHI), is closer to the market concentration calculated using the correct classification than the baseline K-means, thereby improving understanding of market power and competition dynamics. 
+    Finally, we investigate the correct number of clusters and find that, in our example, it corresponds to the established knowledge of the market's geographic structure.
+
 
 **Work in Progress**
 
