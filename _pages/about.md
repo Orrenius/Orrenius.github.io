@@ -12,5 +12,5 @@ Previous to pursuing a PhD in Economics at [Stockholm School of Economics](https
 I hold a  Master of Science degree in Applied and Computational Mathematics from the Royal Institute of Technology in Stockholm as well as a Master of Science in Engineering degree in Engineering Physics (Civilingenjör Teknisk fysik). 
 
 
-Find my [CV](../files/cv_orrenius_JM2425.pdf) here.  
+Find my [CV](../files/cv_orrenius_latest_web.pdf) here.  
 
