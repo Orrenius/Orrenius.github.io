@@ -4,7 +4,7 @@ title: "Personal website of Johan Orrenius"
 excerpt: "About me"
 author_profile: true
 ---
-I am an applied microeconomist at the Research Institute of Industrial Economics [(IFN)]{https://www.ifn.se/en} in Stockholm who works in the fields of Digital Economics, Economics of Education, and Health Economics. 
+I am an applied microeconomist at the Research Institute of Industrial Economics [(IFN)](https://www.ifn.se/en) in Stockholm who works in the fields of Digital Economics, Economics of Education, and Health Economics. 
 
 I earned my PhD in economics at the Stockholm School of Economics in 2025, with a dissertation named "Essays on Markets: Digital Attention, Market Definitions and Education".
 
