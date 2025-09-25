@@ -12,5 +12,14 @@ Prior to pursuing a PhD in Economics at [Stockholm School of Economics](https://
 I hold a  Master of Science degree in Applied and Computational Mathematics from the Royal Institute of Technology in Stockholm, as well as a Master of Science in Engineering degree in Engineering Physics (Civilingenjör Teknisk fysik). 
 
 
-Find my [CV](../files/cv_orrenius_latest_web.pdf) here.  
+Find my [CV](../files/cv_orrenius_latest_web.pdf) here. 
+
+**News**
+
+I published an op-ed in the Swedish business newspaper Dagens Industri on taxing digital advertisement in the same way we tax labour income:
+[Beskatta digital reklam](https://www.di.se/debatt/beskatta-digital-reklam-lika-mycket-som-lonearbete/)
+
+
+
+
 
