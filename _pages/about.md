@@ -17,6 +17,7 @@ Find my [CV](../files/cv_orrenius_latest_web.pdf) here.
 **News**
 
 I published an op-ed in the Swedish business newspaper Dagens Industri on taxing digital advertisement in the same way we tax labour income:
+
 [Beskatta digital reklam](https://www.di.se/debatt/beskatta-digital-reklam-lika-mycket-som-lonearbete/)
 
 
